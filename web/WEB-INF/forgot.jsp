@@ -13,6 +13,13 @@
     </head>
     
     <body>
-        <h1>Hello World!</h1>
+        <h1>Forgot Password</h1>
+        <h3>Please enter your email address to retrieve your password.</h3>
+        <form method="post" action="">
+            <strong>Email Address</strong><input type="email" name="recoveryEmail">
+            <input type="submit" value="Submit">
+        </form>
+        
+        
     </body>
 </html>

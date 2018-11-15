@@ -21,6 +21,6 @@
             <input type="Submit" value="Login">
         </form>
         <br/>
-        <a href="">Forgot Password?</a>
+        <a href="forgot">Forgot Password?</a>
     </body>
 </html>
