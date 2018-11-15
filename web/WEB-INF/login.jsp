@@ -16,11 +16,11 @@
         <h1>Login</h1>
         <br/>
         <form method="post" action="">
-            User name:<input type="text" name="username">
-            Password:<input type="password" name="password">
+            User name:<input type="text" name="username"><br/>
+            Password:<input type="password" name="password"><br/>
             <input type="Submit" value="Login">
         </form>
-        
-        <a href="">Forgot Password</a>
+        <br/>
+        <a href="">Forgot Password?</a>
     </body>
 </html>
